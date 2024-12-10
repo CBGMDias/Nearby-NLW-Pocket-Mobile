@@ -1,6 +1,9 @@
 # Nearby-NLW-Pocket-Mobile
  Projeto do aplicativo Nearby do curso NLW Pocket Mobile da Rocketseat.
  
+ Link do evento: https://rocketseat.com.br/eventos/nlw/convite/cristhian-9001
+
+ ### Nearby
  O Nearby é um aplicativo onde o usuário pode visualizar locais próximos como restaurantes, mercados, etc. Também mostrando e disponibilizando cupons de desconto.
 
  O Projeto é feito utilizando React Native, TS e Expo, no qual é utilizado o Expo Go para visualizar o aplicativo em tempo real no smartphone.
