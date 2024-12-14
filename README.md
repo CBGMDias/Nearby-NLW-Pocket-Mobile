@@ -10,8 +10,18 @@
 
 ## Telas
 
-| **Boas-vindas** | **Home** | **Lugares** |
-|------------------|----------|-------------|
-| ![Tela de Boas-Vindas](https://github.com/user-attachments/assets/2bf0d314-0d6f-4320-be0a-f8547abc056e) | ![Tela Home](https://github.com/user-attachments/assets/db2f0519-e07b-4722-8ca1-00096b324411) | ![Lugares](https://github.com/user-attachments/assets/5e8391b7-c17b-4667-97bf-220d37a9f090) |
+| **Boas-vindas** | **Home** |
+|------------------|----------|
+| <img src="https://github.com/user-attachments/assets/2bf0d314-0d6f-4320-be0a-f8547abc056e" width="400"> | <img src="https://github.com/user-attachments/assets/ba026b26-c6be-4c58-90f6-07ac9c12803e" width="400"> |
+
+| **Lugares** | **Lugar** |
+|-------------|-----------|
+| <img src="https://github.com/user-attachments/assets/1e221758-f0e4-45e2-962b-6b1d16b031e7" width="400"> | <img src="https://github.com/user-attachments/assets/7ffa17fe-b413-49f8-ab28-d70350aeb293" width="400"> |
+
+
+
+
+
+
 
 
